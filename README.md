@@ -1,17 +1,14 @@
-<h1> [Your Project Title] </h1>
+<h1>Analisis Segmen Pelanggan dan Pola Pembelian untuk Optimasi Pemasaran di Supermarket</h1>
 
 ## 1. Project Overview
-This project analyzes business data to extract insights, improve decision-making, and identify key trends. The primary focus is to **[Your Problem Statements]**(mention business objectives, such as optimizing sales, reducing operational costs, customer segmentation, etc.).
+This project analyzes business data to extract insights, improve decision-making, and identify key trends. The primary focus is to **identify key customer segments, analyze marketing campaign performance, and predict customer loyalty to support data-driven decision making.** 
 
 Key Objectives:
-- Objective 1: (E.g., Analyze customer purchasing patterns)
-- Objective 2: (E.g., Forecast future sales using machine learning)
-- Objective 3: (E.g., Identify high-value customer segments)
+- Objective 1: **Mengidentifikasi** pola pembelian pelanggan berdasarkan demografi dan perilaku belanja.
+- Objective 2:  **Mengevaluasi** efektivitas kampanye pemasaran berdasarkan tingkat respons pelanggan terhadap promosi.
 
 ## 2. Data Sources
-- [Dataset 1](link) - Description of dataset (e.g., Sales data for 2020–2023)
-- [Dataset 2](link) – Description of dataset (e.g., Customer demographic information)
-- ...
+- Supermarket Customers Dataset - Berisi data demografi pelanggan, pola pembelian, serta histori respons terhadap kampanye pemasaran selama dua tahun terakhir.
 
 ## 3. Technologies Used
 - Programming Language: Python (e.g., Pandas, NumPy)
@@ -45,13 +42,20 @@ Key Objectives:
 
 ```
 
-## 5. Summary of Finding
+
+## 5. Summary of Findings
+
 ### 5.1 Business Insight
-In this section, you can present the **actionable insights** derived from the analysis results.
+- Teridentifikasi segmen pelanggan dengan karakteristik belanja yang berbeda.
+- Beberapa segmen menunjukkan tingkat respons tinggi terhadap kampanye tertentu.
+- Faktor-faktor seperti total pengeluaran dan frekuensi belanja menjadi indikator kuat loyalitas.
+
 ### 5.2 Actionable Recommendation
-In this section, you can offer **actionable business recommendations** to address the identified problems.
+- Fokuskan promosi pada segmen dengan respons tinggi untuk meningkatkan konversi.
+- Kembangkan pendekatan personalisasi berdasarkan profil segmen.
+- Prioritaskan retensi pada pelanggan yang menunjukkan pola loyalitas tinggi.
 
 ## 6. Contact
-- Name: 
-- Email:
-- Linkedin:
+- **Name:** Jawed Iqbal Alfaruqiy
+- **Email:** jawediqbalalfaruqiy@gmail.com
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
